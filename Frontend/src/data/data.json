@@ -1,0 +1,49 @@
+{
+  "Header": {
+    "title": "Image Captioning System",
+    "paragraph": "Caption an image using the power of Deep Learning"
+  },
+  "About": {
+    "paragraph": "Image captioning system is the process of extracting features and generating meaningful insights automatically from an image in the form of natural sentence. The system uses the collaboration of computer vision and natural language processing to accomplish the task. In this project, we proposed architecture for multi-modal image captioning system using VLAD encoded CNN and LSTM. In our approach, we used multiple VLAD encoding method with the CNNs features for image classification. In particular, the power of VLAD in this multi-modal architecture leads our proposed model to yield better performance compared to the existing methods.",
+    "Why": [
+      "Aid to the blind",
+      "Self-Driving Cars",
+      "Image Based Search Engine"
+    ],
+    "Why2": [
+      "Usage in virtual assistants",
+      "image indexing",
+      "Social Media image insights"
+    ]
+  },
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Raktim Chatterjee"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Sukanya Bhattacharya"
+      
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Soumyajeet Kabi"
+      
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Sukhpreet Kaur"
+      
+    },
+    {
+      "img": "img/team/05.jpg",
+      "name": "Sourabh Kar"
+      
+    },
+    {
+      "img": "img/team/06.jpg",
+      "name": "Rajbinder Kaur"
+    }
+  ]
+}
